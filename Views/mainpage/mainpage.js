@@ -1,22 +1,18 @@
-import React from 'react'
-import {ScrollView, View, Text} from 'react-native'
-import styles from './styles'
+import React from 'react';
+import {ScrollView, View, Text} from 'react-native';
+import styles from './styles';
 import Card from '../../components/card';
+import inmuebles from '../../data/inmuebles.json';
 
 const MainPage = () => {
   return (
-    
-      <View style={styles.body}>
-        <ScrollView>
-           <Card/>
-           <Card/>
-           <Card/>
-           <Card/>
-           <Card/>
-           <Card/>
-        </ScrollView>
-      </View>
-  
+    <View style={styles.body}>
+      <ScrollView>
+        {inmuebles.map((inmueble, key) => {
+          return <Card inmueble={inmueble} key={key} />;
+        })}
+      </ScrollView>
+    </View>
   );
 };
 

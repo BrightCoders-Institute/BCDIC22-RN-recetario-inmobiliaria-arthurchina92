@@ -27,6 +27,12 @@ export default StyleSheet.create({
   textContainer: {
     flex: 3,
     backgroundColor: 'yellow',
+    flexDirection: 'column',
+    alignItems: 'center',
+    justifyContent: 'center',
   },
-  
+  text: {
+    fontStyle:'italic',
+    fontSize: 40,
+  }
 });

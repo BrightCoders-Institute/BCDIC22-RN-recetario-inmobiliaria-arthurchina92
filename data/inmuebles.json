@@ -1,94 +1,107 @@
+  [
+                {
+                        "address": "3517 W. Gray St. Utica",
+                        "bathrooms": 2,
+                        "cost": 440,
+                        "favorite": null,
+                        "name": "The Willows",
+                        "qualification": 4.7,
+                        "rooms": 3,
+                        "surface": {
+                        "lenght": 10,
+                        "width": 23,
+                        "heigth": null,
+                        "unit": "ft",
+                        "img_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/AIMCO_apartment_interior.jpg"
+                        }
+                        },
+                        {
+                        "address": "3517 W. Gray St. Utica",
+                        "bathrooms": 2,
+                        "cost": 440,
+                        "favorite": null,
+                        "name": "Hudson street",
+                        "qualification": 4.7,
+                        "rooms": 3,
+                        "surface": {
+                        "lenght": 10,
+                        "width": 23,
+                        "heigth": null,
+                        "unit": "ft",
+                        "img_url": "https://img.vivanuncios.com.mx/api/v1/mx-pt10-ads/images/43/43fa0c3d-7d9b-4326-8985-10ce6317a8af?rule=s-I72.auto"
 
+                        }
+                        },
+                        {
+                        "address": "3517 W. Gray St. Utica",
+                        "bathrooms": 2,
+                        "cost": 440,
+                        "favorite": null,
+                        "name": "Orchard House",
+                        "qualification": 4.7,
+                        "rooms": 3,
+                        "surface": {
+                        "lenght": 10,
+                        "width": 23,
+                        "heigth": null,
+                        "unit": "ft",
+                        "img_url": "https://images.adsttc.com/media/images/5f90/e509/63c0/1779/0100/010e/newsletter/3.jpg?1603331288"
 
-[
-    {
-    "address": "3517 W. Gray St. Utica",
-    "bathrooms": 2,
-    "cost": 440,
-    "favorite": null,
-    "name": "The Willows",
-    "qualification": 4.7,
-    "rooms": 3,
-    "surface": {
-    "lenght": 10,
-    "width": 23,
-    "heigth": null,
-    "unit": "ft"
-    }
-    },
-    {
-    "address": "3517 W. Gray St. Utica",
-    "bathrooms": 2,
-    "cost": 440,
-    "favorite": null,
-    "name": "Orchard House",
-    "qualification": 4.7,
-    "rooms": 3,
-    "surface": {
-    "lenght": 10,
-    "width": 23,
-    "heigth": null,
-    "unit": "ft"
-    }
-    },
-    {
-    "address": "3517 W. Gray St. Utica",
-    "bathrooms": 2,
-    "cost": 440,
-    "favorite": null,
-    "name": "Orchard House",
-    "qualification": 4.7,
-    "rooms": 3,
-    "surface": {
-    "lenght": 10,
-    "width": 23,
-    "heigth": null,
-    "unit": "ft"
-    }
-    },
-    {
-    "address": "3517 W. Gray St. Utica",
-    "bathrooms": 2,
-    "cost": 440,
-    "favorite": null,
-    "name": "The Willows",
-    "qualification": 4.7,
-    "rooms": 3,
-    "surface": {
-    "lenght": 10,
-    "width": 23,
-    "heigth": null,
-    "unit": "ft"
-    }
-    },
-    {
-    "address": "3517 W. Gray St. Utica",
-    "bathrooms": 2,
-    "cost": 440,
-    "favorite": null,
-    "name": "Corner House",
-    "qualification": 4.7,
-    "rooms": 3,
-    "surface": {
-    "lenght": 10,
-    "width": 23,
-    "heigth": null,
-    "unit": "ft"
-    }
-    },
-    {
-    "address": "3517 W. Gray St. Utica",
-    "bathrooms": 2,
-    "cost": 440,
-    "favorite": null,
-    "name": "Orchard House",
-    "qualification": 4.7,
-    "rooms": 3,
-    "surface": {
-    "lenght": 10,
-    "width": 23,
-    "heigth": null,
-    "unit": "ft"
-    }
-    }
-    ]
+                        }
+                        },
+                        {
+                        "address": "3517 W. Gray St. Utica",
+                        "bathrooms": 2,
+                        "cost": 440,
+                        "favorite": null,
+                        "name": "Parque Royal",
+                        "qualification": 4.7,
+                        "rooms": 3,
+                        "surface": {
+                        "lenght": 10,
+                        "width": 23,
+                        "heigth": null,
+                        "unit": "ft",
+                        "img_url": "https://images.adsttc.com/media/images/623c/4fa0/3e4b/3145/3000/001b/newsletter/_d_ambrosio_07._copy.jpg?1648119692"
+
+                        }
+                        },
+                        {
+                        "address": "3517 W. Gray St. Utica",
+                        "bathrooms": 2,
+                        "cost": 440,
+                        "favorite": null,
+                        "name": "Corner House",
+                        "qualification": 4.7,
+                        "rooms": 3,
+                        "surface": {
+                        "lenght": 10,
+                        "width": 23,
+                        "heigth": null,
+                        "unit": "ft",
+                        "img_url": "https://www.rocketmortgage.com/resources-cmsassets/RocketMortgage.com/Article_Images/Large_Images/TypesOfHomes/types-of-homes-hero.jpg"
+
+                        }
+                        },
+                        {
+                        "address": "3517 W. Gray St. Utica",
+                        "bathrooms": 2,
+                        "cost": 440,
+                        "favorite": null,
+                        "name": "Burlington road",
+                        "qualification": 4.7,
+                        "rooms": 3,
+                        "surface": {
+                        "lenght": 10,
+                        "width": 23,
+                        "heigth": null,
+                        "unit": "ft",
+                        "img_url": "https://img10.naventcdn.com/avisos/18/00/51/90/33/36/720x532/52648437.jpg"
+
+                        }
+                        }   
+            
+
+           ]
+           
+    
