@@ -34,5 +34,12 @@ export default StyleSheet.create({
   text: {
     fontStyle:'italic',
     fontSize: 40,
+  },
+  address: {
+    flexDirection: 'row',
+  },
+  caracteristics: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
   }
 });
