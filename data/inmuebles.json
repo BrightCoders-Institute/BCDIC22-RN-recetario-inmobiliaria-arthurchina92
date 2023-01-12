@@ -2,7 +2,7 @@
                 {
                         "address": "3517 W. Gray St. Utica",
                         "bathrooms": 2,
-                        "cost": 440,
+                        "cost": "$440/m",
                         "favorite": null,
                         "name": "The Willows",
                         "qualification": 4.7,
@@ -18,7 +18,7 @@
                         {
                         "address": "3517 W. Gray St. Utica",
                         "bathrooms": 2,
-                        "cost": 440,
+                        "cost": "$530/m",
                         "favorite": null,
                         "name": "Hudson street",
                         "qualification": 4.7,
@@ -35,7 +35,7 @@
                         {
                         "address": "3517 W. Gray St. Utica",
                         "bathrooms": 2,
-                        "cost": 440,
+                        "cost": "$880/m",
                         "favorite": null,
                         "name": "Orchard House",
                         "qualification": 4.7,
@@ -52,7 +52,7 @@
                         {
                         "address": "3517 W. Gray St. Utica",
                         "bathrooms": 2,
-                        "cost": 440,
+                        "cost": "$640/m",
                         "favorite": null,
                         "name": "Parque Royal",
                         "qualification": 4.7,
@@ -69,7 +69,7 @@
                         {
                         "address": "3517 W. Gray St. Utica",
                         "bathrooms": 2,
-                        "cost": 440,
+                        "cost": "$440/m2",
                         "favorite": null,
                         "name": "Corner House",
                         "qualification": 4.7,
@@ -86,7 +86,7 @@
                         {
                         "address": "3517 W. Gray St. Utica",
                         "bathrooms": 2,
-                        "cost": 440,
+                        "cost": "$440/m",
                         "favorite": null,
                         "name": "Burlington road",
                         "qualification": 4.7,
