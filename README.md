@@ -2,6 +2,8 @@
 
 # App Inmobiliaria
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e69613bb263f41e798f72fe0d42e6d77)](https://app.codacy.com/gh/BrightCoders-Institute/BCDIC22-RN-recetario-inmobiliaria-arthurchina92?utm_source=github.com&utm_medium=referral&utm_content=BrightCoders-Institute/BCDIC22-RN-recetario-inmobiliaria-arthurchina92&utm_campaign=Badge_Grade_Settings)
+
 - [Ver instrucciones](./instructions.md)
 
 Things you may want to cover:
