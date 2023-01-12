@@ -21,7 +21,6 @@ export default StyleSheet.create({
     height: 100,
     marginTop: 20,
     marginLeft: 40,
-    
   },
 
   textContainer: {
@@ -32,9 +31,9 @@ export default StyleSheet.create({
     borderRadius: 15,
   },
   text: {
-    fontStyle:'italic',
+    fontStyle: 'italic',
     fontSize: 40,
-    color: '#000'
+    color: '#000',
   },
   title: {
     width: '100%',
@@ -62,7 +61,7 @@ export default StyleSheet.create({
   },
   rooms: {
     flexDirection: 'row',
-    marginLeft: 20
+    marginLeft: 20,
   },
   bathrooms: {
     flexDirection: 'row',
@@ -73,20 +72,20 @@ export default StyleSheet.create({
   },
   cost: {
     width: 230,
-    flexDirection:'row',
+    flexDirection: 'row',
     justifyContent: 'space-between',
   },
   puntuacion: {
     borderRadius: 7,
     flexDirection: 'row',
-    position:'absolute',
+    position: 'absolute',
     marginTop: 75,
     marginLeft: 26,
     width: 40,
     height: 20,
-    backgroundColor: '#fff'
+    backgroundColor: '#fff',
   },
-  star: { 
+  star: {
     color: 'yellow',
   },
 });

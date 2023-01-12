@@ -8,7 +8,7 @@
                         "qualification": 4.7,
                         "rooms": 3,
                         "surface": {
-                        "lenght": 10,
+                        "lenght": "415m2",
                         "width": 23,
                         "heigth": null,
                         "unit": "ft",
@@ -24,7 +24,7 @@
                         "qualification": 4.7,
                         "rooms": 3,
                         "surface": {
-                        "lenght": 10,
+                        "lenght": "386m2",
                         "width": 23,
                         "heigth": null,
                         "unit": "ft",
@@ -41,7 +41,7 @@
                         "qualification": 4.7,
                         "rooms": 3,
                         "surface": {
-                        "lenght": 10,
+                        "lenght": "297m2",
                         "width": 23,
                         "heigth": null,
                         "unit": "ft",
@@ -58,7 +58,7 @@
                         "qualification": 4.7,
                         "rooms": 3,
                         "surface": {
-                        "lenght": 10,
+                        "lenght": "430m2",
                         "width": 23,
                         "heigth": null,
                         "unit": "ft",
@@ -75,7 +75,7 @@
                         "qualification": 4.7,
                         "rooms": 3,
                         "surface": {
-                        "lenght": 10,
+                        "lenght": "240m2",
                         "width": 23,
                         "heigth": null,
                         "unit": "ft",
@@ -92,7 +92,7 @@
                         "qualification": 4.7,
                         "rooms": 3,
                         "surface": {
-                        "lenght": 10,
+                        "lenght": "310m2",
                         "width": 23,
                         "heigth": null,
                         "unit": "ft",

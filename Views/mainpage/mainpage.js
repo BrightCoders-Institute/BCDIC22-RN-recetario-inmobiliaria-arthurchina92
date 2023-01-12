@@ -1,5 +1,5 @@
 import React from 'react';
-import {ScrollView, View, Text} from 'react-native';
+import {ScrollView, View} from 'react-native';
 import styles from './styles';
 import Card from '../../components/card';
 import inmuebles from '../../data/inmuebles.json';
