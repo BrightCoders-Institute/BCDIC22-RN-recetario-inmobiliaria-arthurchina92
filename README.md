@@ -16,6 +16,8 @@ Things you may want to cover:
 - Open in Visual studio code
 - Execute Npm install
 - To run the project use the command: Npm run android
+# Badges
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/1b4380e9f0e94e4b9ce19087386c2835)](https://www.codacy.com/gh/BrightCoders-Institute/BCDIC22-RN-recetario-inmobiliaria-arthurchina92/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BrightCoders-Institute/BCDIC22-RN-recetario-inmobiliaria-arthurchina92&amp;utm_campaign=Badge_Grade)
 
 - Coded by Arturo Alejandro China Santa Ana
 
